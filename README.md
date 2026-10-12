@@ -1,16 +1,36 @@
-## Hi there 👋
+  <h1 align="center">Hi 👋, I'm Khushi Gupta</h1>
+<h3 align="center">B.Tech Student | Aspiring Full-Stack Web Developer from India 🇮🇳</h3>
 
-<!--
-**khushi-gupta2026/khushi-gupta2026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Passionate about Web Development, DSA and building real-world projects.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 B.Tech Student
+- 💻 Learning Full-Stack Web Development
+- ☕ Learning Java & DSA
+- 🌱 Currently exploring React.js & Node.js
+- 🚀 Building real-world projects
+- 📚 Always learning new technologies
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
+- Java
+- Python
+- Git
+- GitHub
+- DSA (Learning)
+- OOPS (Learning)
+- OS (Learning)
+
+
+
+
